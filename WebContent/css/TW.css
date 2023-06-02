@@ -19,3 +19,13 @@ figure{
 #TW_FG{
     font-size : 30px;
 }
+
+th{
+    text-align : center;
+}
+
+.tf{
+    border : 1px solid black;
+
+}
+
