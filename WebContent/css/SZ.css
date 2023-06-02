@@ -1,0 +1,23 @@
+body{
+    margin : 10%;
+}
+.tl{
+    font-weight : bold;
+    background-color: white;
+}
+figure{
+    float : right;
+    border : solid 1px black;
+    margin : 10px;
+    background-color: white;
+}
+
+
+.irum{
+    text-align : center;
+    background-color : cornsilk;
+}
+
+#TW_FG{
+    font-size : 30px;
+}
