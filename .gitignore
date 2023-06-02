@@ -6,3 +6,8 @@
 *.iml
 out
 gen
+
+.gitignore
+.classpath
+.project
+.settings/
