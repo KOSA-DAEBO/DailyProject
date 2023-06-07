@@ -1,17 +1,23 @@
 body{
     margin : 10%;
 }
+
 .tl{
     font-weight : bold;
     background-color: white;
 }
+
 figure{
+	max-width: 40%;
     float : right;
     border : solid 1px black;
     margin : 10px;
     background-color: white;
 }
 
+figure img {
+	max-width: 100%;
+}
 
 .irum{
     text-align : center;
